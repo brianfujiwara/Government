@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5E7C5283</color>
+    <color name="colorPrimaryDark">#702F7C</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name= "dem">#0625EC</color>
+    <color name= "repub">#EE0909</color>
+    <color name= "noparty">#000000</color>
+</resources>
