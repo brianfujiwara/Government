@@ -23,7 +23,7 @@ public class AsyncOfficals extends AsyncTask<String, Integer, String> {
 
     private MainActivity mainActivity;
 
-    private String key = "AIzaSyCXV0FICtTIvVTbgVqdMH0O4K7iQbdqGmQ";
+    private String key = "use your key";
 
     private String web = "https://www.googleapis.com/civicinfo/v2/representatives";
 
